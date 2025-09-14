@@ -10,4 +10,5 @@ int main()
     c=a+b;
     printf("The sum of the two numbers you entered is %d\n",c);
     return 0;
+
 }
